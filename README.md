@@ -28,3 +28,5 @@ Checkout, Tela de produto, Catálogo, Home com banner
 ## Links:
 
 [Google](https://www.google.com)
+
+[![Logo](https://png.pngtree.com/png-clipart/20190611/original/pngtree-wolf-logo-png-image_2306634.jpg)](https://www.google.com)
