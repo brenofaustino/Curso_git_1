@@ -35,6 +35,6 @@ Checkout, Tela de produto, Catálogo, Home com banner
 
 ```Javascript
 Function soma(a,b){
-return a + b
+   return a + b
 }
 ```
