@@ -38,3 +38,10 @@ Function soma(a,b){
    return a + b
 }
 ```
+
+## lista de tarefas a fazer:
+
+- [ x ] Área de membros
+- [] integração com outros pagamentos
+- [] sistema de bônus
+- [ x ] css do rodapé
