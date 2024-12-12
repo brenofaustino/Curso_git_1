@@ -30,3 +30,11 @@ Checkout, Tela de produto, Catálogo, Home com banner
 [Google](https://www.google.com)
 
 [![Logo](https://png.pngtree.com/png-clipart/20190611/original/pngtree-wolf-logo-png-image_2306634.jpg)](https://www.google.com)
+
+## Código da função soma
+
+```Javascript
+Function soma(a,b){
+return a + b
+}
+```
